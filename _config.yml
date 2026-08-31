@@ -1,0 +1,13 @@
+title: "Monika Dhanotra"
+subtitle: "PMP® | CAPM®"
+name: "Monika Dhanotra"
+description: "Project Management Professional"
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
+
+author:
+  name: "Monika Dhanotra"
+  bio: "Project Management Professional | PMP® | CAPM®"
